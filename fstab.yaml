@@ -1,5 +1,5 @@
 mountpoints:
 /:
-url: "https://author-p160157-e1740857.adobeaemcloud.com/.com/bin/franklin.delivery/whiteboard1blackboard-cloud/eds-aem-codebase/main"
+url: "https://author-p160157-e1740857.adobeaemcloud.com/bin/franklin.delivery/whiteboard1blackboard-cloud/eds-aem-codebase/main"
 type : "markup"
 suffix : ".html"
